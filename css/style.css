@@ -33,14 +33,6 @@ body {
     font-size: 20px;
 }
 
-.link {
-	font-size: 18px;
-    text-decoration: none;
-    background: #926239;
-    color: pink;
-    font-style: italic;
-}
-
 #showcase .button{
     font-size: 18px;
     text-decoration: none;
@@ -60,6 +52,14 @@ body {
     background: #926239;
     color: white;
     text-align: center;
+}
+
+#section-a .link {
+	font-size: 18px;
+    text-decoration: none;
+    background: #926239;
+    color: pink;
+    font-style: italic;
 }
 
 #section-b {
