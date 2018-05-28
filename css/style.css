@@ -33,6 +33,14 @@ body {
     font-size: 20px;
 }
 
+.link {
+	font-size: 18px;
+    text-decoration: none;
+    background: #926239;
+    color: pink;
+    font-style: italic;
+}
+
 #showcase .button{
     font-size: 18px;
     text-decoration: none;
